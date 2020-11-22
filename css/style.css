@@ -295,6 +295,7 @@ main {
     height: auto;
     margin: 0 auto;
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .product-detail--title h2 {
@@ -402,7 +403,7 @@ main {
     min-width: 288px;
     height: auto;
     margin: 0 auto;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
 }
 
 .plans--title h2 {
